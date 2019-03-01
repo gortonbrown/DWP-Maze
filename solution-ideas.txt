@@ -1,0 +1,6 @@
+Solution ideas
+
+From files create stream from each row to an array of rows
+from here this will gove us the position / structure based on the row - which array - and column - which position within the selected array.
+
+Direction should be detrmined by a value of 0 - 3: 0 is North, 1 is East, 2 is South and 4 is West. A value  of 0 or 2 is an indication that we move up an down the scale and the 1, or 3 that we move to the left or to the right
